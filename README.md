@@ -36,8 +36,11 @@ Please share the database table and data in your repository.
     </tr>
 </table>
 
+***
+
 <table>
     Column definitions:
+    
     <tr>
         <td>Column</td>
         <td>Description</td>
@@ -66,6 +69,3 @@ Please share the database table and data in your repository.
 * Get next available job
 * Call the URL for the job
 * Store the returned status
-
-##### Bonus
-Register a job in the jobs­table, and poll the table until the job has been executed.
