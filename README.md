@@ -36,9 +36,10 @@ Please share the database table and data in your repository.
     </tr>
 </table>
 
+***
+
 <table>
-    Column definitions:
-    
+    Column definitions:    
     <tr>
         <td>Column</td>
         <td>Description</td>
